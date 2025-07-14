@@ -1,2 +1,4 @@
 # gesturegame
-A React-based web application that integrates a Unity WebGL game with real-time hand gesture control. Users can control the movement of a 3D character in the game using predefined gesture commands like "Left", "Right", "Start", "Stop", "Moveup", and "Movedown".
+This project is a web-based Unity game controlled through real-time hand gestures. Built using React and Unity WebGL, the app interprets gestures like "Left", "Right", "Start", "Stop", "Moveup", and "Movedown" and sends them to a Unity game character using Unity's JavaScript messaging system.
+
+Ideal for demonstrating gesture-based interaction in web environments, the app includes a responsive loading screen, desktop/mobile handling, and simple integration with external gesture recognition systems.
