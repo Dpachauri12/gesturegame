@@ -1,4 +1,14 @@
 # Hand-Pose-Detection
-This project is a web-based Unity game controlled through real-time hand gestures. Built using React and Unity WebGL, the app interprets gestures like "Left", "Right", "Start", "Stop", "Moveup", and "Movedown" and sends them to a Unity game character using Unity's JavaScript messaging system.
+## About the project
+* This Project takes hand gesture (through webcam of your laptop) as an input to move a 3D character model in a 3D environment build in Unity 3D.
 
-Ideal for demonstrating gesture-based interaction in web environments, the app includes a responsive loading screen, desktop/mobile handling, and simple integration with external gesture recognition systems.
+## Features
+* Currently there are 6 hand gestures used in the project:
+  * Move Front
+  * Stop
+  * Move Left
+  * Move Right
+  * Jump
+  * Crouch
+* Background music is also integrated with the environment.
+  
